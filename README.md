@@ -19,7 +19,7 @@ Sou um estudante de Ciência da Computação na UNIVERSIDADE FEDERAL DO CARIRI -
 
 <div align="center"> 
   
-  <p>Conheça mais sobre mim, siga minhas redes sociais ou entre em contato</p>
+  <p>Conecte-se comigo!</p>
   <a href="https://www.instagram.com/raffaell.cn/?next=%2F" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
